@@ -19,7 +19,7 @@
 
 * Should see the little ember rate page when browsing to {domain}:4200. 
 * For example, localhost:4200
-* For example, http://railsebapp-dev.us-east-1.elasticbeanstalk.com/
+* For example, http://emberebapp-dev.us-east-1.elasticbeanstalk.com/
 
 ## Refs
 
